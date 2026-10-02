@@ -89,6 +89,6 @@ Algumas funcionalidades que podem ser implementadas futuramente:
 
 ## 👨‍💻 Autor
 
-**Bruno Fernandes Lima**
+**Soullwoolf**
 
 Projeto desenvolvido para fins de estudo e prática de programação em Python.
